@@ -1,66 +1,22 @@
-<p align="center">
-  <a href="https://zenodo.org/doi/10.5281/zenodo.15716698" target="_blank">
-    <img src="fazon_whitepaper.png" alt="FAZON Whitepaper Banner" width="100%">
-  </a>
-</p>
+## 🔹 FAZON Project – Public Release Materials
 
-# 📘 FAZON Whitepaper
+This repository contains selected public-facing documents related to the FAZON initiative.
 
-> "**1 NFT = 1 Book = 1 License**"
+### 📄 Included Files:
 
-This repository contains the official technical documentation and supporting materials for the FAZON Engine.
+- `FAZON_LAUNCH_ARCHIVE_V1_FULL.zip` – Launch capsule (HTML + minimal visuals)
+- `ZENODO_X_FA_FINAL_part1.pdf` – Open-access whitepaper excerpt
+- `ZENODO_X_FA_FINAL_part2.pdf` – Continuation of public whitepaper
+- `fazon_whitepaper.png` – Banner (visual reference only)
+- `LICENSE` – CC0-1.0
 
----
+> ⚠️ This release includes no internal engine logic, access layers, or operational architecture.
+> Full modules, systems, and protected intellectual property are available only via licensed NFT access.
 
-## 🔗 Key Links
-
-- [Zenodo Publication](https://zenodo.org/doi/10.5281/zenodo.15716698)
-- [FAZON Website](https://fazon.org)
-- Contact: [fazon@fazoncore.org](mailto:fazon@fazoncore.org)
+### 🌐 Visit:
+🔗 [fazon-whitepaper.vercel.app](https://fazon-whitepaper.vercel.app)
 
 ---
 
-## 📚 Book Structure:
-
-The full version of **FAZON BOOK I** (_The Theory of Coincidence_) is divided into two parts due to file size limits:
-
-- [ZENODO X FA FINAL part1.pdf](ZENODO_X_FA_FINAL_part1.pdf)
-- [ZENODO X FA FINAL part2.pdf](ZENODO_X_FA_FINAL_part2.pdf)
-
-To access the complete version or request NFT access: [fazon.org](https://fazon.org)
-
----
-
-## 📁 Repository Contents
-
-| File                        | Description                                  |
-|----------------------------|----------------------------------------------|
-| `README.md`                | Main documentation (you are reading it)      |
-| `ZENODO_X_FA_FINAL_part1.pdf` | Part 1 of FAZON BOOK I                   |
-| `ZENODO_X_FA_FINAL_part2.pdf` | Part 2 of FAZON BOOK I                   |
-| `fazon_whitepaper.png`     | Banner                                       |
-| `index.html`               | Landing page base                            |
-| `fazon_github_pack.zip`    | Archive for offline integration              |
-| `LICENSE`                  | License (CC0-1.0)                            |
-
----
-
-## 🧠 Technologies Used
-
-- Markdown for structured documentation  
-- GitHub Pages + HTML/CSS (`index.html`)  
-- NFT-Gated Architecture  
-- Token Infrastructure (ERC-20 + FAZON Token)  
-- Quantum/Phase Theory (FAZON Engine)
-
----
-
-## 📄 License & Access
-
-All materials in this repository are released under **CC0 1.0 Universal (Public Domain Dedication)**.
-
-**For full access and licensing:**  
-→ 1 NFT = 1 Book = 1 License  
-→ Request at [fazon.org](https://fazon.org)
-
-Commercial or enterprise use requires verified NFT ownership.
+© FAZON Initiative. All deeper mechanisms are secured and trace-locked.
+.
