@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner_fazon_whitepaper.png" alt="FAZON Banner" width="100%">
+</p>
 # FAZON Whitepaper
 
 This repository contains the official whitepaper and supporting documents for the FAZON Project.
