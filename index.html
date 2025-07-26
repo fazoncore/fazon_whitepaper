@@ -1,39 +1,84 @@
-
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>FAZON Whitepaper</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background-color: #0b0b0b;
+      color: #ffffff;
       text-align: center;
-      background: #f4f4f4;
-      padding-top: 50px;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #111;
+      padding: 30px 20px 20px;
+    }
+    header img {
+      max-width: 180px;
+      margin-bottom: 10px;
     }
     h1 {
-      color: #222;
+      font-size: 28px;
+      margin: 10px 0 20px;
+    }
+    .buttons {
+      margin: 30px auto;
     }
     .button {
       display: inline-block;
-      margin: 20px;
-      padding: 15px 30px;
-      font-size: 18px;
-      background-color: #0051ff;
+      margin: 10px;
+      padding: 12px 24px;
+      font-size: 16px;
+      background-color: #0055ff;
       color: white;
-      border: none;
-      border-radius: 8px;
       text-decoration: none;
+      border-radius: 6px;
+      transition: background 0.3s;
     }
     .button:hover {
-      background-color: #003dcc;
+      background-color: #003acc;
+    }
+    .language {
+      margin-top: 20px;
+      font-size: 14px;
+      color: #999;
+    }
+    .language a {
+      color: #999;
+      text-decoration: none;
+      margin: 0 8px;
+    }
+    .language a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 12px;
+      color: #666;
     }
   </style>
 </head>
 <body>
-  <h1>FAZON Whitepaper</h1>
-  <a class="button" href="ZENODO_X_FA_FINAL_part1.pdf" target="_blank">Read Part 1</a>
-  <a class="button" href="ZENODO_X_FA_FINAL_part2.pdf" target="_blank">Read Part 2</a>
+  <header>
+    <img src="fazon_whitepaper.png" alt="FAZON Logo">
+    <h1>Белая книга проекта FAZON</h1>
+  </header>
+
+  <div class="buttons">
+    <a class="button" href="ZENODO_X_FA_FINAL_part1.pdf" download>📘 Скачать часть 1 (PDF)</a>
+    <a class="button" href="ZENODO_X_FA_FINAL_part2.pdf" download>📕 Скачать часть 2 (PDF)</a>
+  </div>
+
+  <div class="language">
+    Язык: <a href="#">RU</a> | <a href="#">EN</a>
+  </div>
+
+  <footer>
+    © 2025 FAZON. All rights reserved. | FFF: Где Смысл становится Реальностью.
+  </footer>
 </body>
 </html>
